@@ -41,11 +41,11 @@ return [
 
 		'mysql' => [
 			'driver' => 'mysql',
-			'host' => env('DB_HOST', '127.0.0.1'),
-			'port' => env('DB_PORT', '3306'),
-			'database' => env('DB_DATABASE', 'forge'),
-			'username' => env('DB_USERNAME', 'forge'),
-			'password' => env('DB_PASSWORD', ''),
+			'host' => env('DB_HOST', 'https://phplaravel-408336-1284907.cloudwaysapps.com'),
+			'port' => env('DB_PORT', '8082'),
+			'database' => env('DB_DATABASE', 'kgbuyvbppb'),
+			'username' => env('DB_USERNAME', 'kgbuyvbppb'),
+			'password' => env('DB_PASSWORD', '3mvTHzA9g9'),
 			'charset' => 'utf8mb4',
 			'collation' => 'utf8mb4_unicode_ci',
 			'prefix' => '',
